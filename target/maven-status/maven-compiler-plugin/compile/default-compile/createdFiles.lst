@@ -1,0 +1,8 @@
+org/sofka/view/menu.class
+org/sofka/model/ValidateEmail.class
+org/sofka/model/UserConnectionDB.class
+org/sofka/controller/ConnectionDB.class
+org/sofka/view/myScanner.class
+org/sofka/App.class
+org/sofka/controller/MyApp.class
+org/sofka/model/User.class

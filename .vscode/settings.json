@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "maven.executable.preferMavenWrapper": false,
+  "maven.view": "flat"
+}
